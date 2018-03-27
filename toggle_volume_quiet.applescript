@@ -8,6 +8,7 @@ property SAVED_VOLUME : 30
 --	to easily 'quiet' the volume during commercials without muting; muting will 
 --	only pause commericals until the volume is restored. After a couple of 
 --	minutes this toggle script can easily restore the volume to its pervious setting.
+--
 
 --	Author:		Andrew Thomson
 --	Date:		01-08-2017
